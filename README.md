@@ -18,7 +18,7 @@ The **CRM Application** is a desktop-based customer relationship management tool
 
 ## Program Demo
 
-![CRM Application](https://github.com/Poyamohamadi/CRM_Application/blob/main/image.png)
+![CRM Application](https://github.com/Poyamohamadi/CRM/blob/main/image.PNG)
 
 ---
 
